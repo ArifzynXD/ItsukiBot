@@ -1,3 +1,5 @@
 node_modules/
 system/session
 storage/database.json
+
+package-lock.json
