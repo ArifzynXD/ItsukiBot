@@ -87,7 +87,7 @@ export default {
 
 1. Tidak untuk dijual
 2. Jangan lupa beri bintang pada repo ini
-3. Jika Anda memiliki masalah, hubungi saya [`WhatsApp`](https://wa.me/6287874358314)
+3. Jika Anda memiliki masalah, hubungi saya [`WhatsApp`](https://wa.me/62895347198105)
 
 ## Thanks to ✨
 
